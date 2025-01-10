@@ -33,8 +33,8 @@ The `NumbersValidator` class includes several methods for number validation:
 1. Clone the repository:
    
 ```bash
-git clone https://github.com/yourusername/unit-tests.git
-cd unit-tests
+git clone https://github.com/MCaius/JS-unit-testing-example.git
+cd JS-unit-testing-example
 ```
 
 2. Install dependencies:
